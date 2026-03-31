@@ -1,6 +1,3 @@
-# sklearn-random-forest-housing-prediction
-A machine learning project using Scikit-Learn and Random Forest to predict California housing prices based on 1990 Census data.
-
 # California Housing Price Prediction 🏠
 
 A machine learning project implementing a **Random Forest Regressor** to predict median house values in California. This project demonstrates end-to-end ML workflow: from data acquisition and preprocessing to model validation and feature importance analysis.
