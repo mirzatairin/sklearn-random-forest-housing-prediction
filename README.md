@@ -24,8 +24,9 @@ The dataset contains 20,640 observations with features including:
 4. **Evaluation:** Measured performance using **Mean Absolute Error (MAE)**.
 
 ## 📈 Key Insights
-* The model effectively identifies income levels as the primary driver of housing costs.
-* Geographical location (lat/long) significantly influences the model's accuracy, reflecting California's diverse real estate market.
+* Model Accuracy: The model achieved a Validation MAE of 0.3266. Since the target variable is in units of $100,000, this indicates an average prediction error of approximately $32,660.
+* Primary Driver: Feature importance analysis confirms that Median Income (MedInc) is the most significant predictor of housing prices.
+* Spatial Factors: Geographical location (Latitude/Longitude) significantly influences the model, reflecting the impact of coastal vs. inland real estate markets in California.
 
 ## 📂 Installation
 ```bash
