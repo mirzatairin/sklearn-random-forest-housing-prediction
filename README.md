@@ -30,6 +30,6 @@ The dataset contains 20,640 observations with features including:
 
 ## 📂 Installation
 ```bash
-git clone [https://github.com/YOUR-USERNAME/sklearn-random-forest-housing-prediction.git](https://github.com/mirzatairin/sklearn-random-forest-housing-prediction.git)
+git clone [https://github.com/mirzatairin/sklearn-random-forest-housing-prediction.git](https://github.com/mirzatairin/sklearn-random-forest-housing-prediction.git)
 cd sklearn-random-forest-housing-prediction
 pip install -r requirements.txt
